@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMART_CART_2016-master.CSharp", "SMART_CART_2016-master.CSharp.csproj", "{AB264E0F-AC84-4502-5ACB-5D728158B885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMART_CART_2016-master.CSharp.Editor", "SMART_CART_2016-master.CSharp.Editor.csproj", "{C49B5C9F-8BD6-87DD-1CD8-0966FA252F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB264E0F-AC84-4502-5ACB-5D728158B885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB264E0F-AC84-4502-5ACB-5D728158B885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB264E0F-AC84-4502-5ACB-5D728158B885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB264E0F-AC84-4502-5ACB-5D728158B885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49B5C9F-8BD6-87DD-1CD8-0966FA252F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49B5C9F-8BD6-87DD-1CD8-0966FA252F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49B5C9F-8BD6-87DD-1CD8-0966FA252F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49B5C9F-8BD6-87DD-1CD8-0966FA252F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

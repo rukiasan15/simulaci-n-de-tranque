@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{34CE4A32-9F45-6232-0919-E1F5B1579524}") = "SIMULACION", "Assembly-CSharp.csproj", "{4537E009-5219-0224-E0DE-CD764DB35C57}"
+EndProject
+Project("{34CE4A32-9F45-6232-0919-E1F5B1579524}") = "SIMULACION", "Assembly-CSharp-Editor.csproj", "{2C89BE50-071F-9185-7AC1-FEED79AB3FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4537E009-5219-0224-E0DE-CD764DB35C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4537E009-5219-0224-E0DE-CD764DB35C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4537E009-5219-0224-E0DE-CD764DB35C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4537E009-5219-0224-E0DE-CD764DB35C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C89BE50-071F-9185-7AC1-FEED79AB3FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C89BE50-071F-9185-7AC1-FEED79AB3FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C89BE50-071F-9185-7AC1-FEED79AB3FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C89BE50-071F-9185-7AC1-FEED79AB3FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
